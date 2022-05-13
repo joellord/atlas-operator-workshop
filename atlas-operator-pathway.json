@@ -1,5 +1,11 @@
 {
   "title": "MongoDB Atlas Operator Workshop",
   "description": "A workshop about the MongoDB Atlas Operator",
-  "courses": []
+  "courses": [
+    {
+      "course_id": "atlas-operator",
+      "title": "Scenario for Atlas Operator",
+      "description": "Katacoda Scenario Example"
+    }
+  ]
 }
