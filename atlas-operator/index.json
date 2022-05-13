@@ -1,6 +1,6 @@
 {
   "title": "Atlas Operator",
-  "description": "new ",
+  "description": "w/ minikube:1.25 ",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -37,6 +37,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "minikube-running:1.25"
+    "imageid": "minikube:1.25"
   }
 }
