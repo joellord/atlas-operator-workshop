@@ -1,6 +1,6 @@
 {
   "title": "Atlas Operator",
-  "description": "MBDW",
+  "description": "new ",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -37,6 +37,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "kubernetes-cluster:1.18"
+    "imageid": "minikube-running"
   }
 }
