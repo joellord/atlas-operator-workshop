@@ -1,0 +1,2 @@
+# MongoDB Atlas Operator for Kubernetes
+This workshop will guide you through the steps to deploy a three tier application to Kubernetes. It uses the Atlas Operator to connect to a MongoDB Atlas cluster.
