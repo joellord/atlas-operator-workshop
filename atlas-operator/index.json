@@ -1,6 +1,6 @@
 {
   "title": "Atlas Operator",
-  "description": "This scenario teaches the basics of the MongoDB Atlas Operator.",
+  "description": "MBDW",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -37,6 +37,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "kubernetes-cluster:1.18"
   }
 }
